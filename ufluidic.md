@@ -199,7 +199,7 @@ Modifications to the inlet entry angle may help reduce bubble entrapment, improv
 
 ## Multimedia:
 ### Gallery:
-<img src="images/ufluidic-cad-model.png" alt="microfluidic CAD model" width="50%">
+<img src="images/ufluidic-cad-model.PNG" alt="microfluidic CAD model" width="50%">
 <img src="images/ufluidic-resin-print1.jpg" alt="Resin printed device 1" width="50%">
 <img src="images/ufluidic-resin-print2.jpg" alt="Resin printed device 2" width="50%">
 <img src="images/ufluidic-pdms-cast1.jpg" alt="PDMS Cast device 1" width="50%">
