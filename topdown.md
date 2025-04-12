@@ -49,6 +49,6 @@ I used only FFF/FDM 3D printing in my project. I decided to do this even though 
 ## Generative Design Attempt:
 I attempted to utilize generative design to optimize the phone holder part so that it uses the least amount of material while also maximizing the strength on the hold of the phone. I placed some theoretical forces on the phone holder itself and the detent mechanism which the whole model may experience as you are riding a bike. I then modified the preserve geometry and obstacle geometry and the manufacturing methods and other settings. However, I forgot to modify things like the materials and got some of the forces incorrect.
 ## Gallery:
-(Problem placing photos right now due to storage constraints when putting gifs directly into the repo on the ufluidics page, will be fixed by the end of Friday 4/11/2025)
+(Problem placing photos right now due to storage constraints when putting gifs directly into the repo on the multi material page, will be fixed by the end of Saturday 4/12/2025)
 ### Cad Model:
 <iframe src="https://vanderbilt643.autodesk360.com/g/shares/SH286ddQT78850c0d8a46f88249f9d41794b?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
