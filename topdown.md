@@ -30,38 +30,38 @@ I used only FFF/FDM 3D printing in my project. I decided to do this even though 
 | Phone holder bars | TPU |
 | Screws, heat set inserts, etc | Not printed |
 
-<img src="images/bike_mount_assembly_top_parts.jpg" alt="bike_mount_assembly_top_parts" width="50%">
-<img src="images/bike_mount_assembly_bot_parts.jpg" alt="bike_mount_assembly_bot_parts" width="50%">
+<img src="images/bike_mount_assembly_top_parts.jpg" alt="bike_mount_assembly_top_parts" width="20%">
+<img src="images/bike_mount_assembly_bot_parts.jpg" alt="bike_mount_assembly_bot_parts" width="20%">
 
 1. Print all the parts and get everything together
 2. Use a soldering iron or tool for heat set inserts to put the m3 heat set inserts in all the 4.5mm holes (if using a soldering iron, use a screw to slightly twist into the heat set insert to correct the angle while the insert is still hot)
 3. Connect the holder clamp bottom and top together, put m3 screws from the holder clamp top to the bottom and tighten the screws. It sits tightly without moving already but by printing the bottom clamp with TPU it's even harder for it to move on the handlebar.
    
-   <img src="images/bike_mount_assebly_clamps.jpg" alt="bike_mount_assembly1" width="50%">
-   <img src="images/bike_mount_assembly_clamp_top.jpg" alt="bike_mount_assembly2" width="50%">
+   <img src="images/bike_mount_assebly_clamps.jpg" alt="bike_mount_assembly1" width="20%">
+   <img src="images/bike_mount_assembly_clamp_top.jpg" alt="bike_mount_assembly2" width="20%">
 
 4. Connect the detent holder to the top clamp and insert the 4 m3 crews tighten them.
 
-   <img src="images/bike_mount_assembly_detent_holder_screws.jpg" alt="bike_mount_assembly3" width="50%">
+   <img src="images/bike_mount_assembly_detent_holder_screws.jpg" alt="bike_mount_assembly3" width="20%">
 
 5. Place the detent mechanism twisted 90 degrees on top of the detent holder.
    
-   <img src="images/bike_mount_assembly_detent_system1.jpg" alt="bike_mount_assembly4" width="50%">
-   <img src="images/bike_mount_assembly_detent_system.jpg" alt="bike_mount_assembly5" width="50%">
+   <img src="images/bike_mount_assembly_detent_system1.jpg" alt="bike_mount_assembly4" width="20%">
+   <img src="images/bike_mount_assembly_detent_system.jpg" alt="bike_mount_assembly5" width="20%">
 
    1. Place a 4mm ball into the open slots on the top and bottom of the detent holder. Let the steel balls rest against the detent holes of the detent mechanism and on top of the platform of the detent holder.
       
-   <img src="images/bike_mount_assembly_detent_ball.jpg" alt="bike_mount_assembly6" width="50%">
+   <img src="images/bike_mount_assembly_detent_ball.jpg" alt="bike_mount_assembly6" width="20%">
 
    2. Insert springs into the slots, pushing the steel balls against the detent holes with one side of the spring and keeping it tightened with the wall of the detent holder.
 
-   <img src="images/bike_mount_assembly_detent_spring.jpg" alt="bike_mount_assembly7" width="50%">
+   <img src="images/bike_mount_assembly_detent_spring.jpg" alt="bike_mount_assembly7" width="20%">
 
    3. Twist the detent mechanism so that the two flaps on either side now cover the open slots while the detent mechanism is not yet screwed in.
 8. Insert an m3 screw of length at least 16mm into the hole in the middle of the detent mechanism, tighten it until it gets relatively difficult to tighten with an allen key. This will keep the detent mechanism in place and allow it to twist.
 
-<img src="images/bike_mount_assembly_top_view.jpg" alt="bike_mount_assembly8" width="50%">
-<img src="images/bike_mount_assembly_together1.jpg" alt="bike_mount_assembly9" width="50%">
+<img src="images/bike_mount_assembly_top_view.jpg" alt="bike_mount_assembly8" width="20%">
+<img src="images/bike_mount_assembly_together1.jpg" alt="bike_mount_assembly9" width="20%">
 
    1. The detent mechanism is printed together with the cover for the detent system, so the system is only two parts. When the screw connecting the detent mechanism and the detent holder is tightened completely it will push the spring and lock it in place, this way even when the detent mechanism twists and temporarily leaves part of the spring open it will not fall out.
 9. Connect the phone holder to the detent mechanism using m3 screws of 10mm or 12mm length.
