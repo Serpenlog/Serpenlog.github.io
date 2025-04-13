@@ -88,5 +88,6 @@ I attempted to utilize generative design to optimize the phone holder part so th
 <img src="images/bike_mount_bar6.jpg" alt="bike_mount_bar6" width="20%">
 <iframe src="https://giphy.com/embed/6cERrwuJLdPH6K0XlT" width="268" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/6cERrwuJLdPH6K0XlT">via GIPHY</a></p>
 <iframe src="https://giphy.com/embed/rVHIRapbRwbiAHC3gW" width="268" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/rVHIRapbRwbiAHC3gW">via GIPHY</a></p>
+
 ### Cad Model:
 <iframe src="https://vanderbilt643.autodesk360.com/g/shares/SH286ddQT78850c0d8a46f88249f9d41794b?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
