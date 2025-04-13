@@ -60,11 +60,11 @@ These specs make the pliers not only compact and comfortable to hold but also hi
   * Scaled to 105% in X/Y for final fit
 
 ## Gallery
-<img src="images/IMG_6752.jpg" alt="pliers0" width="50%">
-<img src="images/IMG_6740.jpg" alt="pliers1" width="50%">
-<img src="images/IMG_6741.jpg" alt="pliers2" width="50%">
-<img src="images/IMG_6742.jpg" alt="pliers3" width="50%">
-<img src="images/IMG_6743.jpg" alt="pliers4" width="50%">
+<img src="images/IMG_6752.jpg" alt="pliers0" width="20%">
+<img src="images/IMG_6740.jpg" alt="pliers1" width="20%">
+<img src="images/IMG_6741.jpg" alt="pliers2" width="20%">
+<img src="images/IMG_6742.jpg" alt="pliers3" width="20%">
+<img src="images/IMG_6743.jpg" alt="pliers4" width="20%">
 <iframe src="https://giphy.com/embed/YAhs3rJPzi5hJgROhP" width="270" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/YAhs3rJPzi5hJgROhP">via GIPHY</a></p>
 <iframe src="https://giphy.com/embed/gA7QCfl7E8DRRx9t9y" width="270" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/gA7QCfl7E8DRRx9t9y">via GIPHY</a></p>
 <iframe src="https://giphy.com/embed/s9vERsKYhdbtLBrSJH" width="270" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/s9vERsKYhdbtLBrSJH">via GIPHY</a></p>
