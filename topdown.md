@@ -37,10 +37,9 @@ I used only FFF/FDM 3D printing in my project. I decided to do this even though 
 2. Use a soldering iron or tool for heat set inserts to put the m3 heat set inserts in all the 4.5mm holes (if using a soldering iron, use a screw to slightly twist into the heat set insert to correct the angle while the insert is still hot)
 3. Connect the holder clamp bottom and top together, put m3 screws from the holder clamp top to the bottom and tighten the screws. It sits tightly without moving already but by printing the bottom clamp with TPU it's even harder for it to move on the handlebar.
    
-   <img src="images/bike_mount_assebly_clamps.jpg" alt="bike_mount_assembly1" width="20%">
    <img src="images/bike_mount_assembly_clamp_top.jpg" alt="bike_mount_assembly2" width="20%">
 
-4. Connect the detent holder to the top clamp and insert the 4 m3 crews tighten them.
+4. Connect the detent holder to the top clamp and insert the 4 m3 crews and tighten them.
 
    <img src="images/bike_mount_assembly_detent_holder_screws.jpg" alt="bike_mount_assembly3" width="20%">
 
