@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Multi Material</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+</head>
+<body>
+<header>
+    <h1>Multi Material</h1>
+    <nav>
+        <a href="index.html">Home</a>
+        <a href="about.html">About</a>
+        <a href="portfolio.html">Portfolio</a>
+    </nav>
+</header>
+<main>
+    <div id="markdown-content">
+        <!-- Markdown content will be dynamically loaded here -->
+    </div>
+</main>
+<footer>
+    <p>© 2025 Serpenlog</p>
+</footer>
+
+<script>
+    // Fetch and render the markdown file
+    fetch('generative_design.md')
+        .then(response => response.text())
+        .then(markdown => {
+            const htmlContent = marked.parse(markdown); // Convert markdown to HTML
+            document.getElementById('markdown-content').innerHTML = htmlContent;
+        })
+        .catch(error => {
+            console.error('Error loading markdown file:', error);
+            document.getElementById('markdown-content').innerHTML = '<p>Unable to load content. Please try again later.</p>';
+        });
+</script>
+</body>
+</html>
