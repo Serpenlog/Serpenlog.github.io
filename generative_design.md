@@ -73,36 +73,36 @@ However, it can also be a detriment in industries or projects where simplicity, 
 ## Gallery:
 ### Generative Design:
 
-<img src="images/headphone_holder_gen1.png" alt="bike_mount_main1" width="20%">
-<img src="images/headphone_holder_gen2.png" alt="bike_mount_main1" width="20%">
-<img src="images/headphone_holder_gen3.png" alt="bike_mount_main1" width="20%">
-<img src="images/headphone_holder_gen4.png" alt="bike_mount_main1" width="20%">
-<img src="images/headphone_holder_gen5.png" alt="bike_mount_main1" width="20%">
+<img src="images/headphone_holder_gen1.PNG" alt="headphone_holder_gen1" width="20%">
+<img src="images/headphone_holder_gen2.PNG" alt="headphone_holder_gen2" width="20%">
+<img src="images/headphone_holder_gen3.PNG" alt="headphone_holder_gen3" width="20%">
+<img src="images/headphone_holder_gen4.PNG" alt="headphone_holder_gen4" width="20%">
+<img src="images/headphone_holder_gen5.PNG" alt="headphone_holder_gen5" width="20%">
 
 This is an example of the generative design fusing the preserve geometries of the wire holder and headphone holder, even though there was a thin layer of obstacle geometry between them, and it also ignored the starting shape rod connected to the wire holder barrier entirely:
 
-<img src="images/headphone_holder_gen6.png" alt="bike_mount_main1" width="20%">
+<img src="images/headphone_holder_gen6.PNG" alt="headphone_holder_gen6" width="20%">
 
 
 ### Iterations:
 
-<img src="images/headphone_holder_iterations1.jpg" alt="bike_mount_main1" width="20%">
-<img src="images/headphone_holder_iteration3.jpg" alt="bike_mount_main1" width="20%">
+<img src="images/headphone_holder_iterations1.JPG" alt="headphone_holder_iterations1" width="20%">
+<img src="images/headphone_holder_iteration3.JPG" alt="headphone_holder_iteration3" width="20%">
 
 ### PLA Real-World Prototype:
 
-<img src="images/headphone_pla_prototype2.jpg" alt="bike_mount_main1" width="20%">
-<img src="images/headphone_pla_protoype1.jpg" alt="bike_mount_main1" width="20%">
+<img src="images/headphone_pla_prototype2.jpg" alt="headphone_pla_prototype2" width="20%">
+<img src="images/headphone_pla_protoype1.jpg" alt="headphone_pla_protoype1" width="20%">
 
 This is where the generative design ignored the obstacle geometry and generated material there and at the end simply deleted that area, making an unwanted gap in the support. 
 
-<img src="images/headphone_holder_obstacle_ignore.jpg" alt="bike_mount_main1" width="20%">
+<img src="images/headphone_holder_obstacle_ignore.jpg" alt="headphone_holder_obstacle_ignore" width="20%">
 
 ### Final SLS Printed Part:
-<img src="images/headphone_holder_final1.jpg" alt="bike_mount_main1" width="20%">
-<img src="images/headphone_holder_final2.jpg" alt="bike_mount_main1" width="20%">
-<img src="images/headphone_holder_final3.jpg" alt="bike_mount_main1" width="20%">
-<img src="images/headphone_holder_final4.jpg" alt="bike_mount_main1" width="20%">
+<img src="images/headphone_holder_final1.jpg" alt="headphone_holder_final1" width="20%">
+<img src="images/headphone_holder_final2.jpg" alt="headphone_holder_final2" width="20%">
+<img src="images/headphone_holder_final3.jpg" alt="headphone_holder_final3" width="20%">
+<img src="images/headphone_holder_final4.jpg" alt="headphone_holder_final4" width="20%">
 
 
 ### Cad Model:
