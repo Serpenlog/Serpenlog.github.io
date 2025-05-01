@@ -71,6 +71,18 @@ Some industries/applications that this could be very useful in are:
 However, it can also be a detriment in industries or projects where simplicity, low cost, or traditional manufacturing methods are simply better. Generative design can produce complex shapes that are more efficient but are also significantly more expensive to actually manufacture or mold using standard methods. 
 
 ## Gallery:
+
+### Table of forces:
+| Force                         | Magnitude  | Location | Rational                                                                 |
+|-------------------------------|------------| --- |--------------------------------------------------------------------------|
+| Gravity                       | 9.807m/s^2 | All parts | Default                                                                  |
+| Force 2                       | 3.0N       | Headphone holder barrier | Simulate weight of headphones                                            |
+| Moment 1                      | 0.2Nm      | Headphone holder barrier | Simulate twisting action that could be experienced onto headphone holder |
+| Force 3                       | 2.2N       | To right of headphone holder barrier | Simulate bumping the headphone holder or placing it from the side with force |
+| Force 4                       | 2.2N       | To left of headphone holder barrier | Simulate bumping the headphone holder or placing it from the side with force |
+| Force 5                       | 1.0N       | Wire holder barrier | Simulates weight of wires |
+| Moment 2                      | 0.2N       | Wire holder barrier | Simulates force of twisting from slight twisting or pulling on wires |
+
 ### Generative Design:
 
 <img src="images/headphone_holder_gen1.PNG" alt="headphone_holder_gen1" width="20%">
