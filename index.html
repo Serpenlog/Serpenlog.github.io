@@ -7,14 +7,7 @@
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
-<header>
-    <h1>Home Page</h1>
-    <nav>
-        <a href="index.html">Home</a>
-        <a href="about.html">About</a>
-        <a href="portfolio.html">Portfolio</a>
-    </nav>
-</header>
+<div id="header-root"></div>
 <main>
     <!-- Section with Description and Background Image -->
     <section class="intro">
@@ -33,20 +26,32 @@
             <!-- Project 1: Syringe Pump -->
             <a href="syringe-pump.html">
                 <img src="images/syringe-pump.jpg" alt="Syringe Pump Project">
+            </a>
             <a href="ufluidic.html">
                 <img src="images/ufluidic-resin-print1.jpg" alt="Microfluidic Pinch Flow Fractionation">
+            </a>
             <a href="multimaterial.html">
                 <img src="images/IMG_6752.jpg" alt="Print-in-Place Pliers">
+            </a>
             <a href="topdown.html">
-                 <img src="images/bike_mount_main2.jpg" alt="Print-in-Place Pliers">
+                <img src="images/bike_mount_main2.jpg" alt="Print-in-Place Pliers">
+            </a>
             <a href="generative_design.html">
-                 <img src="images/headphone_holder_final4.jpg" alt="Headphone Holder">
-
+                <img src="images/headphone_holder_final4.jpg" alt="Headphone Holder">
+            </a>
         </div>
     </section>
 </main>
-<footer>
-    <p>© 2025 Serpenlog</p>
-</footer>
+<div id="footer-root"></div>
+<script src="https://unpkg.com/react@18/umd/react.development.js" crossorigin></script>
+<script src="https://unpkg.com/react-dom@18/umd/react-dom.development.js" crossorigin></script>
+<script src="https://unpkg.com/@babel/standalone/babel.min.js"></script>
+<script type="text/babel" src="react-components.js"></script>
+<script type="text/babel">
+  ReactDOM.createRoot(document.getElementById('header-root')).render(
+    <Header pageTitle="Home Page" />
+  );
+  ReactDOM.createRoot(document.getElementById('footer-root')).render(<Footer />);
+</script>
 </body>
 </html>
