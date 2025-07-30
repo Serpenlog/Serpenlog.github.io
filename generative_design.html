@@ -7,14 +7,7 @@
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
-<header>
-    <h1>Generative Design: Headphone Holder</h1>
-    <nav>
-        <a href="index.html">Home</a>
-        <a href="about.html">About</a>
-        <a href="portfolio.html">Portfolio</a>
-    </nav>
-</header>
+<div id="header-root"></div>
 <main>
     <div id="markdown-content">
 <h1>Generative Design Project</h1>
@@ -166,8 +159,16 @@ I arbitrarily chose 1N for the downward force of the wire holder since one wire 
 <iframe src="https://vanderbilt643.autodesk360.com/g/shares/SH286ddQT78850c0d8a4d8f10d23ad74e99b?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
     </div>
 </main>
-<footer>
-    <p>© 2025 Serpenlog</p>
-</footer>
+<div id="footer-root"></div>
+<script src="https://unpkg.com/react@18/umd/react.development.js" crossorigin></script>
+<script src="https://unpkg.com/react-dom@18/umd/react-dom.development.js" crossorigin></script>
+<script src="https://unpkg.com/@babel/standalone/babel.min.js"></script>
+<script type="text/babel" src="react-components.js"></script>
+<script type="text/babel">
+    ReactDOM.createRoot(document.getElementById('header-root')).render(
+        <Header pageTitle="Generative Design: Headphone Holder" />
+    );
+    ReactDOM.createRoot(document.getElementById('footer-root')).render(<Footer />);
+</script>
 </body>
 </html>
